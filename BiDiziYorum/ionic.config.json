@@ -1,0 +1,7 @@
+{
+  "name": "BiDiziYorum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
